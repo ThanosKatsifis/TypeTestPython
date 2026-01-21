@@ -51,8 +51,14 @@ python type_game.py
 
 1. **Launch** the game.
 2. **Press Enter** to get your first phrase.
-3. **Type** like the wind in the entry box.
-4. **Smash Enter** to score a point and move to the next level.
+3. <img width="702" height="332" alt="Στιγμιότυπο οθόνης 2026-01-14 190435" src="https://github.com/user-attachments/assets/5651819b-12be-4323-9677-4802f6b3603e" />
+
+4. **Type** like the wind in the entry box.
+5. <img width="702" height="332" alt="Στιγμιότυπο οθόνης 2026-01-14 185850" src="https://github.com/user-attachments/assets/a73adc1f-3985-4ab9-bc45-855a58f7e2d8" />
+
+6. **Smash Enter** to score a point and move to the next level.
+7. <img width="702" height="332" alt="Στιγμιότυπο οθόνης 2026-01-14 190405" src="https://github.com/user-attachments/assets/9e346e17-23a8-4cce-b2af-ae014cb98010" />
+
 
 ---
 
